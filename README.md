@@ -1,4 +1,4 @@
-c# Design and Analysis of MOSFET-Based Analog Circuits: A Comprehensive Study
+# Design and Analysis of MOSFET-Based Analog Circuits: A Comprehensive Study
 
 This repository contains LTSpice simulation files for a series of MOSFET-based analog circuits. Each circuit is carefully designed and analyzed to demonstrate key concepts in analog circuit design.
 
